@@ -4,3 +4,4 @@
 * From: India
 * Favorite Food: South Indian
 * Hobby: Music
+* Favorite Color: Blue
